@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 500px;
+    height: 550px;
+    background-color: antiquewhite;
+}
